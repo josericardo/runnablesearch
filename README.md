@@ -1,4 +1,3 @@
-scriptsearch
-============
+Searches for runnable scripts in a given dir.
 
-Searches for runnable scripts in a given folder
+ALPHA Stage
